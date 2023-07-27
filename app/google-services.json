@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501412130287",
+    "firebase_url": "https://honesty-shop-112da-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "honesty-shop-112da",
+    "storage_bucket": "honesty-shop-112da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501412130287:android:ab32cca600e617f0065a1a",
+        "android_client_info": {
+          "package_name": "com.example.honestyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501412130287-ov2vac6267lfajoesup5mm9vlv20q97d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRV_5F1foFILzBvnXOP7DUb_XY6xSNw8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501412130287-ov2vac6267lfajoesup5mm9vlv20q97d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
